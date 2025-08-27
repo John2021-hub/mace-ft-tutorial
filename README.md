@@ -50,7 +50,7 @@ If you find this repository useful, please consider citing:
 ```
 @misc{wang2025maceft,
   title={MACE-FT-Tutorial},
-  author={Yangshuai Wang},
+  author={},
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished={\url{https://github.com/YangshuaiWang/mace-ft-tutorial}},
